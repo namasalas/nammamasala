@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=ADLaM+Display&family=Alike+Angular&display=swap');
+
+/*Navbar styles*/
+.logo {
+    color: green;
+}
+
+/*Styles for intro section*/
+
+#intro {
+    background-color: green;
+}
+
+.explore {
+    background-color: #35374f;
+    color: wheat;
+}
+
+.explore:hover {
+    color: wheat;
+    background-color: grey;
+}
+
+/*Styles for features section*/
+
+
+/*Styles for footer section*/
+#footer {
+    background-color: green;
+}
+
+/*Styles for get-in-touch section*/
+#get-in-touch {
+    background-color: green;
+}
+
+/*Styles for about-1 section*/
+.justtext {
+    text-align: justify;
+    font-size:
+    1.2rem;
+}
+
+/*Styles for products section*/
+
+.card img {
+    height: 500px;
+}
+
+/* Fonts */
+.adlam-font {
+
+    font-family: "ADLaM Display", system-ui;
+    font-weight: 400;
+    font-style: normal;    
+}
+
+.alike-font {
+    font-family: "Alike Angular", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*Custom colors*/
+.brown {
+    color: #EADDCA !important;
+}
+
+.yellow {
+    color: #F3E5AB !important;
+}
+
+.green {
+    background-color: green;
+}
